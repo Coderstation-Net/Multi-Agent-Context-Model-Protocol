@@ -1,7 +1,7 @@
 # Multi-Agent-Context-Model-Protocol
  
 <img width="1934" height="1125" alt="image" src="https://github.com/user-attachments/assets/633ecfe2-f839-4f0a-ba39-76ee4978c7ee" />
-## Simulation: https://coderstation.net/monitor/
+**Simulation:** https://coderstation.net/monitor/
 
  The **Multi-Agent Context Model Protocol** is an advanced architectural framework designed to handle user requests through a sequence of specialized AI and logic-based agents. It enables secure, modular, and context-aware processing from input to final response rendering.
 
